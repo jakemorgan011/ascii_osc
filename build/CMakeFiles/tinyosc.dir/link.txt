@@ -1,0 +1,2 @@
+/usr/bin/ar qc libtinyosc.a CMakeFiles/tinyosc.dir/tinyosc.c.o
+/usr/bin/ranlib libtinyosc.a

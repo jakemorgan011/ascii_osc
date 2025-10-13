@@ -1,0 +1,4 @@
+/Users/jakemorgan/Documents/learn_c/build/CMakeFiles/tinyosc.dir
+/Users/jakemorgan/Documents/learn_c/build/CMakeFiles/3D_OSC.dir
+/Users/jakemorgan/Documents/learn_c/build/CMakeFiles/edit_cache.dir
+/Users/jakemorgan/Documents/learn_c/build/CMakeFiles/rebuild_cache.dir
