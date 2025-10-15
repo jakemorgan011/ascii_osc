@@ -1,1 +1,1 @@
-./build/3D_OSC triangulated.obj;
+./build/3D_OSC strchy.obj;
